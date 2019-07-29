@@ -7,7 +7,7 @@ Starting with any positive integer, replace the number by the sum of the squares
 ## Test Cases
 **Example 1**
 Input: `94`
-Output: `*true*`
+Output: *`true`*
 
 **Explanation**
 > 9<sup>2</sup> + 4<sup>2</sup> = 97
