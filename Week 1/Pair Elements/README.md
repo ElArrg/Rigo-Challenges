@@ -1,4 +1,4 @@
-# Pair Elements
+# Pair Elements :bacon:
 
 ## Description
   Given a sorted array consisting of only integers where every element appears twice except for one element which appears once. Find this single element that appears once.

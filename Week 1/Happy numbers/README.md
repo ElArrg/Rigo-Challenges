@@ -1,4 +1,4 @@
-# Jewels and Stones
+# Happy Numbers :smile:
 
 ## Description
 A happy number is a number defined by the following process:

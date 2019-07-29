@@ -6,6 +6,6 @@ This repository contains the solutions for the challenges of every week.
 
 ## Content
 
-|Week     |Deadline             |Challenges   |
-|-------- |---------------------|------------ |
-|*Week 1* |`Monday, 29/07/2019` |3 challenges |
+|Week                 |Deadline             |Challenges   |
+|-------------------- |-------------------- |------------ |
+|[*Week 1*(Week%201/) |`Monday, 29/07/2019` |3 challenges |
