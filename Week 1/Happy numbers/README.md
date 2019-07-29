@@ -10,10 +10,13 @@ Input: `94`
 Output: `*true*`
 
 **Explanation**
-> 9^2^ + 4^2^ = 97
-> 9^2^ + 7^2^ = 130
-> 1^2^ + 3^2^ + 0^2^ = 10
-> 1^2^ + 0^2^= 1 **It's a happy number**.
+> 9<sup>2</sup> + 4<sup>2</sup> = 97
+>
+> 9<sup>2</sup> + 7<sup>2</sup> = 130
+>
+> 1<sup>2</sup> + 3<sup>2</sup> + 0<sup>2</sup> = 10
+>
+> 1<sup>2</sup> + 0<sup>2</sup>= 1 **It's a happy number**.
 
 ## Solution
 **Key Statements**
@@ -27,7 +30,8 @@ Focusing in the second key statement, you can use a data structure that helps yo
 > Set data structure guarantees that every element in it is unique.
 
 * While the current number is not 1, you will sum the squares of the digits for the current number being this sum, your new number.
-> 94 -> 9^2^ + 4^2^ = 97
+> 94 -> 9<sup>2</sup> + 4<sup>2</sup> = 97
+>
 > 97 is now your current number.
 
 * You will add every number before calculating a new one.
